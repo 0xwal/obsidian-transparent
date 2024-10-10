@@ -1,0 +1,9 @@
+{
+  "id": "window-transparency-plugin",
+  "name": "Window Transparency",
+  "version": "0.0.1",
+  "minAppVersion": "0.9.12",
+  "author": "0xWal",
+  "description": "Adjust the transparency of Obsidian window and macos's traffic light.",
+  "isDesktopOnly": true
+}
